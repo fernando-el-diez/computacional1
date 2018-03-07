@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo `egrep '72582|CAPE|Precipitable' df2017.csv > df2017CAPE_PW.csv`
